@@ -1,5 +1,5 @@
 # CMSI 186 @ LMU
-These are my solutions to the Java labs in CMSI 186: Programming Laboratory (see `TODO` sections)
+**These are my solutions to the Java labs in CMSI 186: Programming Laboratory (see `TODO` sections)**
 
 **High Roller Game:** Dice game played through the command line. Roll all or individual dice to shoot for high scores
 
